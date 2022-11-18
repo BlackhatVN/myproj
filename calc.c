@@ -44,12 +44,14 @@ main(void)
                  }
                  break;
 
-             default :
+             default:
+            
                  break;
          }//switch()
 
          printf("=%lf\n", result);
      }//while(1)
+
 
      exit(0);
 }
